@@ -1,5 +1,3 @@
-# Group Practice Name
-### Tyler Tran
-# Imanol Sierra 
+Imanol Sierra
 
 **This is the Alternative Branch**
