@@ -1,4 +1,4 @@
-# GroupPractice
-a practice repo for the group
+# Group Practice Name
+### Tyler Tran
 
-# Kenneth Bores
+**This is the Alternative Branch**
