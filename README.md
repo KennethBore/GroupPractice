@@ -1,2 +1,2 @@
-# GroupPractice
-a practice repo for the group
+# Group Practice Name
+### Tyler Tran
